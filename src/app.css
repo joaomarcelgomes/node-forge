@@ -1,3 +1,18 @@
 body {
     background-color: #e7e6f2;
 }
+
+.react-select__menu {
+  z-index: 9999 !important;
+  position: fixed !important;
+}
+
+.react-select__option {
+  background-color: transparent;
+  color: black;
+}
+
+.react-select__option:hover {
+  background-color: #6d15d3;
+  color: white;
+}

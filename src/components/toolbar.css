@@ -1,7 +1,7 @@
 .toolbar-wrapper {
   position: fixed;
   display: inline-flex;
-  bottom: 2rem;
+  top: 2rem;
   left: 50%;
   transform: translateX(-50%);
   z-index: 10;
